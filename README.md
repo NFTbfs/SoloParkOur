@@ -2,9 +2,7 @@
 
 ![Figure 1 from paper](assets/teaser.jpeg)
 
-> [SoloParkour: Constrained Reinforcement Learning for Visual Locomotion from Privileged Experience](https://gepetto.github.io/SoloParkour/)  
->  Elliot Chane-Sane*, Joseph Amigo*, Thomas Flayols, Ludovic Righetti, Nicolas Mansard,  
-> **CoRL 2024**  
+> [SoloParkour: Constrained Reinforcement Learning for Visual Locomotion from Privileged Experience]
 
 
 
